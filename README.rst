@@ -53,7 +53,7 @@ To test the "Nasnas" tool, you can use this sample captcha image along with your
 Usage
 -----
 
-.. image:: https://i.ibb.co/8MxP3YB/Screenshot-189.png
+.. image:: https://i.ibb.co/N7KTJqq/Screenshot-190.png
    :alt: Image Description
    :width: 600
    :align: center
