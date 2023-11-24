@@ -93,20 +93,12 @@ To run the script, use the following command:
 
 View the `captcha_results.txt` file for the extracted and filtered results.
 
-License
--------
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
-Contributing
-------------
-
-Contributions are welcome! Please read `CONTRIBUTING.md` for details on how to contribute to this project.
 
 Acknowledgments
 ---------------
 
-Special thanks to the open-source community and libraries that made this project possible.
+Special thanks to the open-source community and libraries that made this project possible and chatgpt :).
 
 By: [twitter.com/3zizMe_](https://twitter.com/3zizMe_)
 
