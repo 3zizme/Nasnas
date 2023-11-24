@@ -38,7 +38,14 @@ This example captcha image demonstrates the type of captcha that "Nasnas" can by
    :alt: Image Description
    :width: 300
    :align: center
-
+.. image:: https://i.ibb.co/XDFSfnN/image.png
+   :alt: Image Description
+   :width: 300
+   :align: center
+.. image:: https://i.ibb.co/7rKD7RC/simplecaptcha.jpg
+   :alt: Image Description
+   :width: 300
+   :align: center
 To test the "Nasnas" tool, you can use this sample captcha image along with your desired headers and parameters to see how it successfully bypasses captchas and extracts valuable information.
 
 
