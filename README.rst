@@ -30,6 +30,19 @@ Features
 - Extracts both strings and numbers from the captcha text.
 - Customizable to suit different captcha challenges and use cases.
 
+Example Captcha
+---------------
+This example captcha image demonstrates the type of captcha that "Nasnas" can bypass. It consists of a distorted alphanumeric code designed to prevent automated bots from accessing a website or service. Captchas like this one are commonly used to verify that a user is human.
+
+.. image:: https://i.ibb.co/CmpCqnm/captcha-2-KA6-To3bz-Quwt-ACP6fuc-HR0n-BD.png
+   :alt: Image Description
+   :width: 300
+   :align: center
+
+To test the "Nasnas" tool, you can use this sample captcha image along with your desired headers and parameters to see how it successfully bypasses captchas and extracts valuable information.
+
+
+
 Usage
 -----
 
