@@ -56,6 +56,7 @@ Usage
    :alt: Image Description
    :width: 600
    :align: center
+
    .. code-block:: sh
 PHPSESSID: 80JSAm1EKrQ, Filtered text: 59279
 PHPSESSID: ZFjR96LS0JV, Filtered text: 55355
