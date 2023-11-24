@@ -54,7 +54,7 @@ Usage
 -----
 .. image:: https://i.ibb.co/8MxP3YB/Screenshot-189.png
    :alt: Image Description
-   :width: 300
+   :width: 600
    :align: center
 
 1. **Set up Google Cloud**: Enable the Vision API, create a service account key, and configure authentication.
