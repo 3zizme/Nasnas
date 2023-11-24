@@ -62,6 +62,11 @@ Usage
 4. **View Results**: The script will retrieve and extract text from captcha images, saving the filtered results in a text file for your reference.
 
 Nasnas simplifies the process of bypassing captchas, making it a valuable tool for web developers, researchers, and automation enthusiasts.
+.. image:: https://i.ibb.co/8MxP3YB/Screenshot-189.png
+   :alt: Image Description
+   :width: 300
+   :align: center
+
 
 Installation
 ------------
