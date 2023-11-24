@@ -68,7 +68,7 @@ Usage
 
    .. code-block:: shell
 
-      PS C:\> python Nasnas.py -n 100 -u "https://example.com/ar/captcha.php?type=block" -v "PHPSESSID" -l 5 -en
+      PS C:\> python Nasnas.py -n 100 -u "https://example.com/captcha.php?type=block" -v "PHPSESSID" -l 5 -en
 
    Output:
 
