@@ -100,6 +100,6 @@ Acknowledgments
 
 Special thanks to the open-source community and libraries that made this project possible and chatgpt :).
 
-By: [twitter.com/3zizMe_](https://twitter.com/3zizMe_)
+By: (https://twitter.com/3zizMe_)
 
 Please feel free to report any issues or suggest improvements by opening an issue on GitHub.
