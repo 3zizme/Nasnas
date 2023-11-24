@@ -52,11 +52,11 @@ To test the "Nasnas" tool, you can use this sample captcha image along with your
 
 Usage
 -----
+
 .. image:: https://i.ibb.co/8MxP3YB/Screenshot-189.png
    :alt: Image Description
    :width: 600
    :align: center
-
 
 1. **Set up Google Cloud**: Enable the Vision API, create a service account key, and configure authentication.
 
@@ -64,9 +64,32 @@ Usage
 
 3. **Run the Script**: Execute the script with command-line arguments, specifying the number of requests, target URLs, header values, desired text length, and text type extraction options.
 
+   Example:
+
+   .. code-block:: shell
+
+      PS C:\> python Nasnas.py -n 100 -u "https://example.com/ar/captcha.php?type=block" -v "PHPSESSID" -l 5 -en
+
+   Output:
+
+   .. code-block:: shell
+
+      PHPSESSID: 80JSAm1EKrQ, Filtered text: 59279
+      PHPSESSID: ZFjR96LS0JV, Filtered text: 55355
+      PHPSESSID: Py5wNWTweyL, Filtered text: 29278
+      PHPSESSID: 5TtPXbbgzHZ, Filtered text: 35244
+      PHPSESSID: J6UnU8fIsC8, Filtered text: 05181
+      PHPSESSID: y6ftJNCgoJd, Filtered text: 00100
+      PHPSESSID: ikqZmZ4fwjc, Filtered text: 30403
+      PHPSESSID: lg9qzyJBkwr, Filtered text: 89759
+      PHPSESSID: uD92b0VeVia, Filtered text: 79824
+      PHPSESSID: xsPwhOE4sXJ, Filtered text: 50324
+      PHPSESSID: PwlSgtSEVzp, Filtered text: 98906
+
 4. **View Results**: The script will retrieve and extract text from captcha images, saving the filtered results in a text file for your reference.
 
 Nasnas simplifies the process of bypassing captchas, making it a valuable tool for web developers, researchers, and automation enthusiasts.
+
 
 
 
