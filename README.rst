@@ -57,19 +57,6 @@ Usage
    :width: 600
    :align: center
 
-   .. code-block:: sh
-PHPSESSID: 80JSAm1EKrQ, Filtered text: 59279
-PHPSESSID: ZFjR96LS0JV, Filtered text: 55355
-PHPSESSID: Py5wNWTweyL, Filtered text: 29278
-PHPSESSID: 5TtPXbbgzHZ, Filtered text: 35244
-PHPSESSID: J6UnU8fIsC8, Filtered text: 05181
-PHPSESSID: y6ftJNCgoJd, Filtered text: 00100
-PHPSESSID: ikqZmZ4fwjc, Filtered text: 30403
-PHPSESSID: lg9qzyJBkwr, Filtered text: 89759
-PHPSESSID: uD92b0VeVia, Filtered text: 79824
-PHPSESSID: xsPwhOE4sXJ, Filtered text: 50324
-PHPSESSID: PwlSgtSEVzp, Filtered text: 98906
-
 
 1. **Set up Google Cloud**: Enable the Vision API, create a service account key, and configure authentication.
 
