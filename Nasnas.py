@@ -7,7 +7,6 @@ import string
 from google.cloud import vision
 import argparse
 
-# Define the ASCII art banner with your Twitter handle
 banner = '''
 ███╗░░██╗░█████╗░░██████╗███╗░░██╗░█████╗░░██████╗
 ████╗░██║██╔══██╗██╔════╝████╗░██║██╔══██╗██╔════╝
